@@ -5,5 +5,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  base: 'https://github.com/HaiWeiss/math-limit-game',
+  base: 'https://haiweiss.github.io/math-limit-game',
 })
